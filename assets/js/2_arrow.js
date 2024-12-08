@@ -6,6 +6,4 @@ let suma = function(a, b) {
 
 // Función arrow
 
-let suma = (a, b) => {
-    return a + b;
-};
+let suma = (a, b) => return a + b
